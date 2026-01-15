@@ -1,7 +1,7 @@
 .PHONY: help
 help:
 	@echo
-	@echo "Usage: make [command]"
+	@echo "Usage: make [command]]"
 	@echo
 	@echo "Commands:"
 	@echo " build                         Build the eRPC server"
